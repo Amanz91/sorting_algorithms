@@ -23,7 +23,7 @@ void swap_n(listint_t **h, listint_t **np, listint_t *nn)
 
 /**
  * insertion_sort_list - A func to sort doubly linked list of
- * 			integers using the insertion sort algorithm.
+ * integers using the insertion sort algorithm.
  * @list: A pointer to the head of a doubly-linked list.
  * Description: Prints the list after each swap.
  */
